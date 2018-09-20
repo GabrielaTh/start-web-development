@@ -7,7 +7,7 @@ body {
     text-align: justify;
     background-color: white;
     padding: 30px;
-    margin: 25px 35% 0px 35%;
+    margin: 25px 37% 0px 37%;
     font-family: 'Montserrat';
     color: gray;
     border-radius: 10px;
@@ -33,7 +33,7 @@ button {
 
 #contacto {
     background-color: white;
-    margin: 10px 35% 0px 35%;
+    margin: 10px 37% 0px 37%;
     padding: 30px;
     color: gray;
     cursor: pointer;
@@ -46,19 +46,15 @@ button {
     font-size: 20px;
     margin-left: 27px;
 }
-#contacto img {
-    width: 20px;
-    background-image: gainsboro;
-}
 
 #content {
     text-align: center;
     background-color: white;
-    margin: 10px 35% 0px 35%;
+    margin: 10px 37% 0px 37%;
     padding: 30px;
     font-family: 'Montserrat';
     color: gray;
-    height: 750px;
+    height: 760px;
     border-radius: 10px;
 }
 
@@ -71,8 +67,7 @@ button {
     padding-top: 2px;
 }
 
-h1,
-h2 {
+h1, h2 {
     text-align: center;
     font-family: 'Montserrat';
     color: gray;
